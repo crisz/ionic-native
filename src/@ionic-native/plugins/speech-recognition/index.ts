@@ -103,7 +103,7 @@ export interface SpeechRecognitionListeningOptionsAndroid {
   pluginName: 'SpeechRecognition',
   plugin: 'cordova-plugin-speechrecognition',
   pluginRef: 'plugins.speechRecognition',
-  repo: 'https://github.com/pbakondy/cordova-plugin-speechrecognition',
+  repo: 'https://github.com/crisz/cordova-plugin-speechrecognition',
   platforms: ['Android', 'iOS'],
 })
 @Injectable()
